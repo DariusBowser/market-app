@@ -1,4 +1,4 @@
-# A Django Marketplace App that has full CRUD and browse capabilities. 
+## A Django Marketplace App that has full CRUD and browse capabilities. 
 
 ## Technologies Used
 
