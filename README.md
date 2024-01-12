@@ -2,7 +2,6 @@
 
 - Python
 - Django
-- Javascript
 - HTML
 
 ## Dashboard
